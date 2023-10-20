@@ -16,9 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=erkutahmet&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=erkutahmet&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=erkutahmet&icon=6&color=6)](https://visitcount.itsvg.in)
 
